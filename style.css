@@ -133,7 +133,7 @@ html::-webkit-scrollbar-thumb{
     min-height: 760px;
     display: flex;
     align-items: center;
-    background-:url(bacgrounimage3.jpg) ;
+    background-:url(images/bacgrounimage3.jpg) ;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center left;
